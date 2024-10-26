@@ -1,4 +1,3 @@
-
 # Hate Speech Detection Dataset (Code-Mixed Javanese-Indonesian and Sundanese-Indonesian)
 
 ## Overview
