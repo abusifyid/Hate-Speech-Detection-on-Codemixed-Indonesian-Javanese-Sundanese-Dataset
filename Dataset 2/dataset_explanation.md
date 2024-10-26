@@ -28,15 +28,7 @@ This strategy focuses on creating more diverse transformations of the original t
 
 The dataset consists of the following files:
 
-- **jawa-train.csv**: The original training set for the Javanese-Indonesian code-mixed language.
-- **jawa-test.csv**: The test set for the Javanese-Indonesian code-mixed language.
 - **jawa-train-augmented-paraphrasing.csv**: The training set augmented using the paraphrasing strategy for the Javanese-Indonesian data.
 - **jawa-train-augmented-aggressive-transformation.csv**: The training set augmented using the aggressive transformation strategy for the Javanese-Indonesian data.
-- **sunda-train.csv**: The original training set for the Sundanese-Indonesian code-mixed language.
-- **sunda-test.csv**: The test set for the Sundanese-Indonesian code-mixed language.
 - **sunda-train-augmented-paraphrasing.csv**: The training set augmented using the paraphrasing strategy for the Sundanese-Indonesian data.
 - **sunda-train-augmented-aggressive-transformation.csv**: The training set augmented using the aggressive transformation strategy for the Sundanese-Indonesian data.
-
-## Purpose
-
-The augmented data in this dataset was created to improve the performance of machine learning models for hate speech detection in code-mixed languages. The diversity introduced by both the paraphrasing and aggressive transformation strategies is intended to help the models generalize better across different domains and contexts.
