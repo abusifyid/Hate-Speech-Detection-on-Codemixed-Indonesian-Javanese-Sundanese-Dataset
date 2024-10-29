@@ -1,6 +1,4 @@
-# Hate Speech Detection Dataset (Code-Mixed Javanese-Indonesian and Sundanese-Indonesian)
-
-## Overview
+## Dataset Overview
 
 This dataset is designed for hate speech detection in code-mixed Javanese-Indonesian and Sundanese-Indonesian languages. The dataset was expanded using data augmentation techniques to improve the robustness and performance of machine learning models. The original data consists of tweets that have been labeled as either hate speech or not hate speech, and it was sourced from a previous study focusing on hate speech detection in code-mixed languages.
 
